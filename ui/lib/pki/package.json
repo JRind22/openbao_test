@@ -5,7 +5,7 @@
     "ember-engine"
   ],
   "dependencies": {
-    "ember-cli-babel": "*",
+    "ember-cli-babel": "8.0.0",
     "ember-cli-htmlbars": "*",
     "ember-cli-typescript": "*",
     "@hashicorp/design-system-components": "*",
