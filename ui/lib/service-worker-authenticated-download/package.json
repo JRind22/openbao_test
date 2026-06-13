@@ -13,7 +13,7 @@
     ]
   },
   "dependencies": {
-    "ember-cli-babel": "*",
+    "ember-cli-babel": "8.0.0",
     "ember-auto-import": "*",
     "ember-source": "*",
     "ember-service-worker": "*"
