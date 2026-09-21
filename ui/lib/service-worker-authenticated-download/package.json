@@ -15,7 +15,7 @@
   "dependencies": {
     "ember-cli-babel": "*",
     "ember-auto-import": "*",
-    "ember-source": "*",
+    "ember-source": "6.4.0",
     "ember-service-worker": "*"
   }
 }
