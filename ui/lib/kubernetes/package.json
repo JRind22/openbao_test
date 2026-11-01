@@ -3,10 +3,10 @@
   "keywords": ["ember-addon", "ember-engine"],
   "dependencies": {
     "ember-cli-htmlbars": "*",
-    "ember-cli-babel": "*",
-    "ember-concurrency": "*",
-    "@ember/test-waiters": "*",
-    "ember-inflector": "*",
+    "ember-cli-babel": "8.0.0",
+    "ember-concurrency": "4.0.0",
+    "@ember/test-waiters": "4.0.0",
+    "ember-inflector": "5.0.0",
     "ember-auto-import": "*"
   },
   "ember-addon": {
